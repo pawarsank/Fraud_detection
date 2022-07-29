@@ -11,3 +11,4 @@ def model3():
 
 print('model 2 selected')
 print('model 3 selected')
+print('model 4 as well')
